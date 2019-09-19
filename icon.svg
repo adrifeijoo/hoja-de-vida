@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <ellipse cx="304.000001" cy="228.000004" fill="#8d3be5" id="svg_2" rx="156.500001" ry="100.500004" stroke="#00007f" stroke-width="15"/>
+  <text fill="#00bfbf" font-family="serif" font-size="24" id="svg_1" stroke="#00007f" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(3.6 0 0 2.63636 -607.5 -384)" x="252.222222" xml:space="preserve" y="243.810345">A      F</text>
+  <polygon cx="281.5" cy="292.5" fill="#ff00ff" id="svg_3" orient="point" point="5" points="301.5,133.00697326660156 324.4219970703125,198.95059204101562 394.22137451171875,200.37298583984375 338.58856201171875,242.55081176757812 358.8049621582031,309.3735046386719 301.5,269.4972229003906 244.19503784179688,309.3735046386719 264.4114532470703,242.55081176757812 208.77862548828125,200.37298583984375 278.5780029296875,198.95059204101562 301.5,133.00697326660156 324.4219970703125,198.95059204101562 " r="97.49302" r2="38.997208" shape="star" stroke="#00007f" stroke-width="0" strokeWidth="0" strokecolor="#00007f"/>
+  <polygon cx="273.5" cy="300.5" fill="#000000" id="svg_4" orient="point" point="5" points="273.5,300.5 273.5,300.5 273.5,300.5 273.5,300.5 273.5,300.5 273.5,300.5 273.5,300.5 273.5,300.5 273.5,300.5 273.5,300.5 273.5,300.5 273.5,300.5 " r="0" r2="0" shape="star" stroke="#00007f" stroke-width="0" strokeWidth="0" strokecolor="#00007f"/>
+ </g>
+</svg>
